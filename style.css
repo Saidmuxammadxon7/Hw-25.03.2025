@@ -1,0 +1,40 @@
+body{
+    background-color: #2F615D ;
+}
+.box{
+    color: #FFFFFF;
+    text-align: center;
+    font-size: 40px;
+    text-align: center;
+    height: 69px;
+    width: 636px;
+    background-color: #311313;
+    margin: 20px auto;
+}
+.box1 {
+    background-color: black;
+    margin: 0 auto;
+    width: 1000px;
+    height: 638px;
+    border: 10px solid red;
+}
+.box2 {
+    font-size: 20px;
+    box-sizing: border-box;
+    padding: 90px;
+    margin: 30px auto;
+    height: 259px;
+    width: 896px;
+    background-color: #1FE8B7;
+    color: black;
+}
+.box3{
+    font-size: 20px;
+    box-sizing: border-box;
+    padding: 90px;
+    margin: 30px auto;
+    height: 259px;
+    width: 896px;
+    background-color: #1FE8B7;
+    color: black;
+}
